@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CapaPresentacion.Form1">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAAAAAAACAABRAAAACAAAACAAAAAAACAAQAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.Form2">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACAAABCAAACgAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.ServicioEspecial">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAgAAAGAAABAAQACAAAACAABAAAIAAAAAAAAAAAQ=</HashCode>
+      <FileName>ServicioEspecial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.ServicioNormal">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAAgAAAGAAABAAAAiAAABCAABAABAAAAACAAAAAAA=</HashCode>
+      <FileName>ServicioNormal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
